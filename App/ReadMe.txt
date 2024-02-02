@@ -1,0 +1,1 @@
+You will need the Microsoft .NET 8 framework installed in order for this app to work.
